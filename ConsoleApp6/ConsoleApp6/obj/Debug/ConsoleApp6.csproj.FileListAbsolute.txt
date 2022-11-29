@@ -1,0 +1,14 @@
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\jwseo\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\jwseo\Desktop\cab201 assessment part 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
